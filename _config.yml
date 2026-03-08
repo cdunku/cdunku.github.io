@@ -1,8 +1,9 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: cdunku's homepage
+description: Homepage of cdunku's projects
+
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://cdunku.github.io
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  GitHub Repository: https://github.com/cdunku/cdunku.github.io
